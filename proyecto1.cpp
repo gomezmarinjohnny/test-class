@@ -35,4 +35,3 @@ int main()
     cout<< "  La division entre: " <<mayor<< " y :  " <<menor<< "  es = " <<div<<"\n";
 	return 0;
 }
-/*cambio de archivo
